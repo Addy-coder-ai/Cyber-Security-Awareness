@@ -1,0 +1,161 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+#title
+{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+    border-width: 5px;
+    border-radius: 20px;
+    width: 1000px;
+}
+
+#title:hover
+{
+    background-color:rgb(162, 254, 223);
+}
+
+#link
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none !important;
+}
+
+#link:hover
+{
+    font-size:32px;
+    color: rgba(245, 245, 245, 0.802);
+}
+
+.sectionbg
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: green;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: lightcoral;
+    background-color: lightskyblue;
+    width: 700px;
+}
+
+.start
+{
+    border-radius: 25px;
+    background-color: lightsalmon;
+}
+
+#sec1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 1px;
+    width: 550px;
+}
+
+th
+{
+    border-style: solid; 
+    border-radius: 2px;   
+    border-width: 2px;
+    background-color: rgb(201, 140, 140);
+}
+
+#footer
+{
+    position: fixed;
+    background-color: lightgreen;
+    color: white;
+    font-size: 30px;
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    font-weight: 650;
+    height: 12%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#hyperlink
+{
+    color: rgba(0, 62, 161, 0.796) !important;
+    text-decoration: none !important;
+}
+
+#hyperlink:hover
+{
+    color: aqua !important;
+}
+
+#sublinktitle
+{
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 625;
+    background-color: cadetblue;
+    border-radius: 13px;
+    width: 15%;
+}
+
+#subq1
+{
+    font-size: 35px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 625;
+    background-color: cornflowerblue;
+    border-radius: 13px;
+    width: 30%;
+}
+#subbg
+{
+    background-color: coral;
+    width: 80%;
+    border-radius: 15px;
+}
+
+#subp
+{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: navy;
+    font-weight: 700;
+}
+
+#backbtn
+{
+    background-color: dodgerblue;
+    font-size: 37px;
+    text-decoration: none !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 25%;
+    border-radius: 5px;
+}
+
+#ul
+{
+    list-style: none;
+}
+
+#ddosid
+{
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 625;
+    background-color: cornflowerblue;
+    border-radius: 13px;
+    width: fit-content;
+}
+
+#subpddos
+{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+    font-weight: 700;   
+}
